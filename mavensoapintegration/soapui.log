@@ -1,0 +1,11 @@
+2017-04-23 13:27:23,399 WARN  [SoapUI] Missing folder [D:\Manoj\javaprojectsgit\mavensoapintegration\ext] for external libraries
+2017-04-23 13:27:23,547 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\MANOJ\soapui-settings.xml]
+2017-04-23 13:27:28,913 INFO  [PluginManager] 0 plugins loaded in 2 ms
+2017-04-23 13:27:28,913 INFO  [DefaultSoapUICore] All plugins loaded
+2017-04-23 13:27:29,421 INFO  [WsdlProject] Loaded project from [file:/D:/Manoj/javaprojectsgit/mavensoapintegration/SoapProj/TestConnectivity-soapui-project.xml]
+2017-04-23 13:27:29,425 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [TestConnectivity]
+2017-04-23 13:27:29,426 INFO  [SoapUITestCaseRunner] Running Project [TestConnectivity], runType = SEQUENTIAL
+2017-04-23 13:27:29,436 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [ConversionRate TestCase]
+2017-04-23 13:27:29,440 INFO  [SoapUITestCaseRunner] running step [ConversionRate]
+2017-04-23 13:27:31,465 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [ConversionRate TestCase], time taken: 2015ms, status: FINISHED
+2017-04-23 13:27:31,465 INFO  [SoapUITestCaseRunner] Project [TestConnectivity] finished with status [FINISHED] in 2036ms

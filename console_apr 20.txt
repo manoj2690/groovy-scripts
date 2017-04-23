@@ -1,0 +1,155 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building mavensoapintegration 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ mavensoapintegration ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ mavensoapintegration ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to D:\Manoj\javaprojectsgit\mavensoapintegration\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ mavensoapintegration ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ mavensoapintegration ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ mavensoapintegration ---
+[INFO] 
+[INFO] --- soapui-maven-plugin:4.6.1:test (default) @ mavensoapintegration ---
+[INFO] Downloading: http://www.soapui.org/repository/maven2/com/smartbear/soapui/soapui/4.6.1/soapui-4.6.1.pom
+[WARNING] Checksum validation failed, no checksums available from the repository for http://www.soapui.org/repository/maven2/com/smartbear/soapui/soapui/4.6.1/soapui-4.6.1.pom
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/com/smartbear/soapui/soapui/4.6.1/soapui-4.6.1.pom (22 KB at 6.9 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/junit/junit/4.10/junit-4.10.pom
+[INFO] Downloading: https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom (3 KB at 1.0 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom (481 B at 0.8 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom (6 KB at 10.2 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom
+[WARNING] Checksum validation failed, no checksums available from the repository for http://www.soapui.org/repository/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom (182 B at 0.1 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/fife/rsyntaxtextarea/2.0.1/rsyntaxtextarea-2.0.1.pom
+[WARNING] Checksum validation failed, no checksums available from the repository for http://www.soapui.org/repository/maven2/fife/rsyntaxtextarea/2.0.1/rsyntaxtextarea-2.0.1.pom
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/fife/rsyntaxtextarea/2.0.1/rsyntaxtextarea-2.0.1.pom (160 B at 0.1 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/apache/ws/security/wss4j/1.6.2/wss4j-1.6.2.pom
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/apache/ws/security/wss4j/1.6.2/wss4j-1.6.2.pom
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/apache/ws/security/wss4j/1.6.2/wss4j-1.6.2.pom (21 KB at 24.1 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/opensaml/opensaml/2.4.1/opensaml-2.4.1.pom
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/opensaml/opensaml/2.4.1/opensaml-2.4.1.pom
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/opensaml/opensaml/2.4.1/opensaml-2.4.1.pom (18 KB at 28.3 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/opensaml/openws/1.4.1/openws-1.4.1.pom
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/opensaml/openws/1.4.1/openws-1.4.1.pom
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/opensaml/openws/1.4.1/openws-1.4.1.pom (19 KB at 23.8 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/opensaml/xmltooling/1.3.1/xmltooling-1.3.1.pom
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/opensaml/xmltooling/1.3.1/xmltooling-1.3.1.pom
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/opensaml/xmltooling/1.3.1/xmltooling-1.3.1.pom (18 KB at 1.2 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/groovy/groovy-all/1.8.0/groovy-all-1.8.0.pom
+[WARNING] Checksum validation failed, no checksums available from the repository for http://www.soapui.org/repository/maven2/groovy/groovy-all/1.8.0/groovy-all-1.8.0.pom
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/groovy/groovy-all/1.8.0/groovy-all-1.8.0.pom (155 B at 0.1 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/com/smartbear/soapui/soapui/4.6.1/soapui-4.6.1.jar
+[WARNING] Checksum validation failed, no checksums available from the repository for http://www.soapui.org/repository/maven2/com/smartbear/soapui/soapui/4.6.1/soapui-4.6.1.jar
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/com/smartbear/soapui/soapui/4.6.1/soapui-4.6.1.jar (9856 KB at 56.1 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/junit/junit/4.10/junit-4.10.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/xmlbeans/xbean_xpath/2.4.0/xbean_xpath-2.4.0.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/xmlbeans/xmlpublic/2.4.0/xmlpublic-2.4.0.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar
+[WARNING] Checksum validation failed, no checksums available from the repository for http://www.soapui.org/repository/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar (86 KB at 27.3 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/fife/rsyntaxtextarea/2.0.1/rsyntaxtextarea-2.0.1.jar
+[WARNING] Checksum validation failed, no checksums available from the repository for http://www.soapui.org/repository/maven2/fife/rsyntaxtextarea/2.0.1/rsyntaxtextarea-2.0.1.jar
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/fife/rsyntaxtextarea/2.0.1/rsyntaxtextarea-2.0.1.jar (717 KB at 73.9 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/apache/ws/security/wss4j/1.6.2/wss4j-1.6.2.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/opensaml/opensaml/2.4.1/opensaml-2.4.1.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/opensaml/openws/1.4.1/openws-1.4.1.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/org/opensaml/xmltooling/1.3.1/xmltooling-1.3.1.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/groovy/groovy-all/1.8.0/groovy-all-1.8.0.jar
+[WARNING] Checksum validation failed, no checksums available from the repository for http://www.soapui.org/repository/maven2/groovy/groovy-all/1.8.0/groovy-all-1.8.0.jar
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/groovy/groovy-all/1.8.0/groovy-all-1.8.0.jar (5817 KB at 108.2 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/saxon/saxon/9.1.0.8j/saxon-9.1.0.8j.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/bouncycastle/bcprov-jdk15/144/bcprov-jdk15-144.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/javax/jms/jms/1.1/jms-1.1.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/hermesjms/hermes/1.14/hermes-1.14.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/amf/flex-messaging-core/1.0/flex-messaging-core-1.0.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/amf/flex-messaging-proxy/1.0/flex-messaging-proxy-1.0.jar
+[WARNING] Checksum validation failed, no checksums available from the repository for http://www.soapui.org/repository/maven2/amf/flex-messaging-proxy/1.0/flex-messaging-proxy-1.0.jar
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/amf/flex-messaging-proxy/1.0/flex-messaging-proxy-1.0.jar (65 KB at 19.0 KB/sec)
+[INFO] Downloading: http://www.soapui.org/repository/maven2/amf/flex-messaging-remoting/1.0/flex-messaging-remoting-1.0.jar
+[INFO] Downloading: http://www.soapui.org/repository/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+[INFO] Downloaded: http://www.soapui.org/repository/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar (107 KB at 37.6 KB/sec)
+[INFO] Downloading: https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar (248 KB at 38.2 KB/sec)
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar (75 KB at 75.2 KB/sec)
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/apache/ws/security/wss4j/1.6.2/wss4j-1.6.2.jar
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/apache/ws/security/wss4j/1.6.2/wss4j-1.6.2.jar (370 KB at 153.0 KB/sec)
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/opensaml/opensaml/2.4.1/opensaml-2.4.1.jar
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/opensaml/opensaml/2.4.1/opensaml-2.4.1.jar (1260 KB at 158.3 KB/sec)
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/opensaml/openws/1.4.1/openws-1.4.1.jar
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/opensaml/openws/1.4.1/openws-1.4.1.jar (552 KB at 119.8 KB/sec)
+[INFO] Downloading: https://repo.maven.apache.org/maven2/org/opensaml/xmltooling/1.3.1/xmltooling-1.3.1.jar
+[INFO] Downloaded: https://repo.maven.apache.org/maven2/org/opensaml/xmltooling/1.3.1/xmltooling-1.3.1.jar (597 KB at 116.8 KB/sec)
+SoapUI 4.6.1 Maven2 TestCase Runner
+21:00:26,351 WARN  [SoapUI] Missing folder [D:\Manoj\javaprojectsgit\mavensoapintegration\.\ext] for external libraries
+21:00:26,532 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\MANOJ\soapui-settings.xml]
+21:00:27,324 INFO  [SoapUI] File [D:\Manoj\javaprojectsgit\mavensoapintegration\TestConnectivity-soapui-project.xml] does not exist, trying URL instead
+21:00:27,325 ERROR [SoapUI] An error occurred [no protocol: TestConnectivity-soapui-project.xml], see error log for details
+java.net.MalformedURLException: no protocol: TestConnectivity-soapui-project.xml
+	at java.net.URL.<init>(URL.java:593)
+	at java.net.URL.<init>(URL.java:490)
+	at java.net.URL.<init>(URL.java:439)
+	at com.eviware.soapui.impl.wsdl.WsdlProject.<init>(WsdlProject.java:215)
+	at com.eviware.soapui.impl.wsdl.WsdlProjectFactory.createNew(WsdlProjectFactory.java:41)
+	at com.eviware.soapui.impl.wsdl.WsdlProjectFactory.createNew(WsdlProjectFactory.java:24)
+	at com.eviware.soapui.tools.SoapUITestCaseRunner.runRunner(SoapUITestCaseRunner.java:337)
+	at com.eviware.soapui.tools.AbstractSoapUIRunner.run(AbstractSoapUIRunner.java:158)
+	at com.eviware.soapui.maven2.TestMojo.execute(TestMojo.java:113)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:134)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:208)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:153)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:145)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:116)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:80)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:51)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:307)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:862)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:286)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:289)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:229)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:415)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:356)
+[ERROR] java.lang.Exception: Failed to load SoapUI project file [TestConnectivity-soapui-project.xml]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 05:28 min
+[INFO] Finished at: 2017-04-20T21:00:27+05:30
+[INFO] Final Memory: 22M/204M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal com.smartbear.soapui:soapui-maven-plugin:4.6.1:test (default) on project mavensoapintegration: SoapUI Test(s) failed: SoapUI Test(s) failed:
+[ERROR] Failed to load SoapUI project file [TestConnectivity-soapui-project.xml]
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
